@@ -1,1 +1,1 @@
-# microsoft_stock
+Esse repositório utiliza dados históricos das ações da Microsoft ([Kaggle Dataset](https://www.kaggle.com/datasets/vijayvvenkitesh/microsoft-stock-time-series-analysis)) para prever preços usando Prophet e LSTM.
